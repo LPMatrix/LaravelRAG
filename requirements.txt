@@ -1,0 +1,4 @@
+chromadb
+ollama
+langchain-community
+langchain-text-splitters
